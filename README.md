@@ -28,7 +28,7 @@ pip install matplotlib numpy
 
 ## How to Run
 
-1. Save the script to a file (e.g., `quantum_simulation.py`).
+1. Save the script to a file (e.g., `QQSS.py`).
 2. Run the script with Python:
 
    ```bash
